@@ -1,0 +1,211 @@
+{
+ "version": 2,
+ "indexPages": [
+  "index.html"
+ ],
+ "files": [
+  {
+   "path": "index.json"
+  },
+  {
+   "path": "index.dat"
+  },
+  {
+   "path": "index.rdf"
+  },
+  {
+   "path": "history.rdf"
+  },
+  {
+   "path": "^metadata^"
+  },
+  {
+   "path": "index.html",
+   "url": "https://shopify.plus/regima-worldwide-distribution-pty-ltd/overview",
+   "role": "document",
+   "token": "9a514dad9b75d1b5aa6d69e96563a367a2eec693"
+  },
+  {
+   "path": "index.xhtml",
+   "role": "document"
+  },
+  {
+   "path": "index.svg",
+   "role": "document"
+  },
+  {
+   "path": "vendors-node_modules_shopify_polaris_build_esnext_components_page_page_esnext-0232d194e1349213.css",
+   "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/baseline-en/vendors-node_modules_shopify_polaris_build_esnext_components_Page_Page_esnext-0232d194e1349213.css",
+   "role": "css",
+   "token": "2a13517d381414322d5fd1171f388b978ebef077"
+  },
+  {
+   "path": "vendors-node_modules_accept-language-parser_index_js-node_modules_shopify_polaris_build_esnex-0f38ca-31148b8868b73eb6.css",
+   "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/baseline-en/vendors-node_modules_accept-language-parser_index_js-node_modules_shopify_polaris_build_esnex-0f38ca-31148b8868b73eb6.css",
+   "role": "css",
+   "token": "1eabc8e5dac180d28a7122619c1b0950412d3481"
+  },
+  {
+   "path": "vendors-node_modules_bugsnag_js_browser_notifier_js-node_modules_shopify_performance_build_es-e498ab-189e667af3f5dad0.css",
+   "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/baseline-en/vendors-node_modules_bugsnag_js_browser_notifier_js-node_modules_shopify_performance_build_es-e498ab-189e667af3f5dad0.css",
+   "role": "css",
+   "token": "fe821713512ca80cdbfd084023e285c5609e2dc2"
+  },
+  {
+   "path": "plus-f18fa2da18f4aac1.css",
+   "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/baseline-en/plus-f18fa2da18f4aac1.css",
+   "role": "css",
+   "token": "b202004a00af7713422f5a7e704bc9853082b35c"
+  },
+  {
+   "path": "shopifysans--light.woff2",
+   "url": "https://cdn.shopify.com/shopify-marketing_assets/static/ShopifySans--light.woff2",
+   "role": "resource",
+   "token": "39ff0aec455c2d3f5c3f78061191f376907ca650"
+  },
+  {
+   "path": "shopifysans--regular.woff2",
+   "url": "https://cdn.shopify.com/shopify-marketing_assets/static/ShopifySans--regular.woff2",
+   "role": "resource",
+   "token": "27d6a75bfcf5b62d29a1623420bdf2c6ce042156"
+  },
+  {
+   "path": "shopifysans--medium.woff2",
+   "url": "https://cdn.shopify.com/shopify-marketing_assets/static/ShopifySans--medium.woff2",
+   "role": "resource",
+   "token": "d5857337918c922e8325837df2dbaf3f0bd1251c"
+  },
+  {
+   "path": "shopifysans--bold.woff2",
+   "url": "https://cdn.shopify.com/shopify-marketing_assets/static/ShopifySans--bold.woff2",
+   "role": "resource",
+   "token": "649d2da5877a754cbf6ca3dd00563f2642021217"
+  },
+  {
+   "path": "shopifysans--extrabold.woff2",
+   "url": "https://cdn.shopify.com/shopify-marketing_assets/static/ShopifySans--extrabold.woff2",
+   "role": "resource",
+   "token": "f6353cea2782d4a01a61f8bda321a01d7208a9ac"
+  },
+  {
+   "path": "shopifysans--black.woff2",
+   "url": "https://cdn.shopify.com/shopify-marketing_assets/static/ShopifySans--black.woff2",
+   "role": "resource",
+   "token": "3bbce51640f188633d1ed6a375fefb3da803ffa1"
+  },
+  {
+   "path": "0850aca368042033.svg",
+   "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/0850aca368042033.svg",
+   "role": "resource",
+   "token": "b81a1bcec5a2c3202ca19b58b6c584b11caba3ee"
+  },
+  {
+   "path": "runtime_plus-43919a0e8011f674.js",
+   "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/baseline-en/runtime~plus-43919a0e8011f674.js",
+   "role": "resource",
+   "token": "a056806e9d377aa8d9450b9234804ffa025ab397"
+  },
+  {
+   "path": "vendors-node_modules_shopify_polaris_build_esnext_components_legacytabs_legacytabs_esnext-223feac104a98781.js",
+   "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/baseline-en/vendors-node_modules_shopify_polaris_build_esnext_components_LegacyTabs_LegacyTabs_esnext-223feac104a98781.js",
+   "role": "resource",
+   "token": "d30c05e31b5efa9e00fc5619f159a490fe2f990b"
+  },
+  {
+   "path": "vendors-node_modules_buffer_index_js-157b3db2dd0fa7c4.js",
+   "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/baseline-en/vendors-node_modules_buffer_index_js-157b3db2dd0fa7c4.js",
+   "role": "resource",
+   "token": "b35e33c11510dfab9e2b30465c9cfee2335b41f0"
+  },
+  {
+   "path": "vendors-node_modules_shopify_polaris_build_esnext_components_page_page_esnext-e0cf5e5084fa7822.js",
+   "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/baseline-en/vendors-node_modules_shopify_polaris_build_esnext_components_Page_Page_esnext-e0cf5e5084fa7822.js",
+   "role": "resource",
+   "token": "32b726407b2b8f8f3c01b376ba930d23a675c484"
+  },
+  {
+   "path": "vendors-node_modules_shopify_browser_build_esnext_browser_esnext-305e2d5632db6f35.js",
+   "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/baseline-en/vendors-node_modules_shopify_browser_build_esnext_browser_esnext-305e2d5632db6f35.js",
+   "role": "resource",
+   "token": "686e8fed262eb44d6c6fccda9caaa139edc1ea8c"
+  },
+  {
+   "path": "vendors-node_modules_accept-language-parser_index_js-node_modules_shopify_polaris_build_esnex-0f38ca-0014ba978cd3a9e3.js",
+   "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/baseline-en/vendors-node_modules_accept-language-parser_index_js-node_modules_shopify_polaris_build_esnex-0f38ca-0014ba978cd3a9e3.js",
+   "role": "resource",
+   "token": "237231d9b652b0a2d9a901f850e8e230e9d133ae"
+  },
+  {
+   "path": "vendors-node_modules_bugsnag_js_browser_notifier_js-node_modules_shopify_performance_build_es-e498ab-6e64b8df6ba21876.js",
+   "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/baseline-en/vendors-node_modules_bugsnag_js_browser_notifier_js-node_modules_shopify_performance_build_es-e498ab-6e64b8df6ba21876.js",
+   "role": "resource",
+   "token": "5870e3ab8e55d906c07023c0b7d6d9eaa2f236b9"
+  },
+  {
+   "path": "vendors-node_modules_bugsnag_plugin-react_dist_bugsnag-react_js-node_modules_shopify_dates_bu-f7a459-cd8cb2cf1fb39f53.js",
+   "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/baseline-en/vendors-node_modules_bugsnag_plugin-react_dist_bugsnag-react_js-node_modules_shopify_dates_bu-f7a459-cd8cb2cf1fb39f53.js",
+   "role": "resource",
+   "token": "ac77227ae3e7f0fe9df04f1eaf2def0b28aaf82b"
+  },
+  {
+   "path": "vendors-node_modules_shopify_monorail_lib_monorail_js-node_modules_shopify_polaris_build_esne-0e93b0-c2fa74d90d00b799.js",
+   "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/baseline-en/vendors-node_modules_shopify_monorail_lib_monorail_js-node_modules_shopify_polaris_build_esne-0e93b0-c2fa74d90d00b799.js",
+   "role": "resource",
+   "token": "856dfde96eedc96aef4fccb99d99d8f9504227af"
+  },
+  {
+   "path": "vendors-node_modules_shopify_monorail_lib_config_endpoints_js-node_modules_apollo3-cache-pers-0a1f51-36ac4d513ea4b671.js",
+   "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/baseline-en/vendors-node_modules_shopify_monorail_lib_config_endpoints_js-node_modules_apollo3-cache-pers-0a1f51-36ac4d513ea4b671.js",
+   "role": "resource",
+   "token": "6e5d42e1f1433f67ac8315085e7f75f9699a978d"
+  },
+  {
+   "path": "app_locales_lazy_recursive_json_-app_shared_components_errorshow_errorshow_tsx-app_shared_rou-a11350-e34aa6cb9746a50a.js",
+   "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/baseline-en/app_locales_lazy_recursive_json_-app_shared_components_ErrorShow_ErrorShow_tsx-app_shared_rou-a11350-e34aa6cb9746a50a.js",
+   "role": "resource",
+   "token": "35a8bbbe72ce56921a1be324d04b51c636c5bf93"
+  },
+  {
+   "path": "app_shared_fullscreen-manager_fullscreenmanager_tsx-app_shared_global-nav_components_destinat-8d3f89-4a1c7fc7697b9713.js",
+   "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/baseline-en/app_shared_fullscreen-manager_FullscreenManager_tsx-app_shared_global-nav_components_Destinat-8d3f89-4a1c7fc7697b9713.js",
+   "role": "resource",
+   "token": "c179ec409a9b6d782f11fb9a45b8f1b3e5036c65"
+  },
+  {
+   "path": "app_shared_global-nav_components_globalnav_globalnav_tsx-app_utilities_login-hint_add-login-h-f55631-2e7c8e7b86969800.js",
+   "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/baseline-en/app_shared_global-nav_components_GlobalNav_GlobalNav_tsx-app_utilities_login-hint_add-login-h-f55631-2e7c8e7b86969800.js",
+   "role": "resource",
+   "token": "317d85ec72b47f6f24529d4640fdb005ee3c59c6"
+  },
+  {
+   "path": "app_org-admin_components_notfound_notfound_tsx-app_org-admin_foundation_apollolinks_createcoo-b7c72e-bebb07d844588a02.js",
+   "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/baseline-en/app_org-admin_components_NotFound_NotFound_tsx-app_org-admin_foundation_ApolloLinks_createCoo-b7c72e-bebb07d844588a02.js",
+   "role": "resource",
+   "token": "e435a6ab28452d3648ffc25655b0652de4173a51"
+  },
+  {
+   "path": "plus-761dceec18e41435.js",
+   "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/baseline-en/plus-761dceec18e41435.js",
+   "role": "resource",
+   "token": "dcab3b8cf7a1c1d4563f8d7a3f17e57246ebb46a"
+  },
+  {
+   "path": "vendors-node_modules_shopify_polaris_build_esnext_components_checkbox_checkbox_css-node_modul-e75fed-cf71663452bdd236.css",
+   "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/baseline-en/vendors-node_modules_shopify_polaris_build_esnext_components_Checkbox_Checkbox_css-node_modul-e75fed-cf71663452bdd236.css",
+   "role": "css",
+   "token": "61170f58c815e5685fbbf1ecaece59c64bc267c7"
+  },
+  {
+   "path": "section-home-84946a70e43f4769.css",
+   "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/baseline-en/section-home-84946a70e43f4769.css",
+   "role": "css",
+   "token": "16a11651056799af63bc4003d822cbd82ca45aac"
+  },
+  {
+   "path": "3effb638cc55724e.svg",
+   "url": "https://cdn.shopify.com/shopifycloud/web/assets/v1/3effb638cc55724e.svg",
+   "role": "resource",
+   "token": "d3bcd15c5a5c949c8570a145a3211f25857b0cb8"
+  }
+ ]
+}
